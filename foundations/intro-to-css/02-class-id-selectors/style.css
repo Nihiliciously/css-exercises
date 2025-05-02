@@ -1,0 +1,14 @@
+.first{
+    background-color: lightcoral;
+}
+.second{
+    font-size: 30px;
+}
+#unique1{
+    color: blue;
+    font-size: 25px;
+}
+#unique2{
+    font-weight: bold;
+    background-color: lightgreen;
+}
